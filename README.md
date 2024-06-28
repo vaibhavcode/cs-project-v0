@@ -1,2 +1,3 @@
 # cs-project-v0
-Object detection and tracking in realtime using OpenCV
+** Face detection and tracking in realtime using OpenCV **
+
